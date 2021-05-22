@@ -31,8 +31,8 @@ Github Pages를 활용하여 기술블로그를 운영하기 위해서는 몇 �
 
 ### 4. 완료  
  완료되면, {github username}.github.io/{레포지토리 이름} 에서 fastpages 기반의 블로그가 배포되었음을 확인할 수 있습니다.
+ 
 
----
 
 ## fastpages를 통해서 블로그를 작성하기 위해서는 다음 파일들에 대해서 알아두어야 합니다. 
 * _config.yml: 블로그의 이름, Latex사용 여부, 미리보기 여부, 태그 보여주기 여부 등을 설정할 수 있는 파일입니다. 
@@ -43,4 +43,19 @@ Github Pages를 활용하여 기술블로그를 운영하기 위해서는 몇 �
 
 ###  YYYY-mm-dd-{아무 이름} 형태로 작성되어야 fastpages가 이를 인식하고 파일을 html로 변환합니다.  
 
+# 깃북 만들기  
+
+1. 깃북에 접속하기 https://gitbook.com
+2. 회원 가입 방법 - 신규 이메일 가입 or 깃허브 연동 가입
+3. 회원 가입 과정 - 계정 검증 Verify 단계
+4. 깃북 Dashboard 관리자 페이지 접속하기
+5. Start with a personal space (개인용 공간) 
+6. 개인용 공간,프로젝트 공간(space) 생성하기 - Shareable Link 생성하는 법 (Visibility : Private → Public)
+7. USERNAME 변경하는 법 : 프로필 및의 setting에서 name변경
+8. 공유 링크 주소 변경하는 법 - domain setting : 작업공간을 클릭하고 왼쪽메뉴 `share`에서 `Shareable Link`밑 `domain setting`을 클릭 변경  
+9. 깃허브에서 연동할 레포지토리(repository) 생성하기
+10. 깃북에서 Integrations 단계 진행 (왼쪽메뉴)
+11. Link your GitHub repository - (Select a repository to synchronize 과정) 
+12. templete 파일을 이용해서 테스트해보기 
+15. SUMMARY.md 내용 적는 법
 
